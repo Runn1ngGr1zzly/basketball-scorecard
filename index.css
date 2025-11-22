@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+p {
+    margin: auto;
+    padding: 5px 5px;
+}
+
+button {
+    background-color: #1B244A;
+    border: none;
+    color: #EEEEEE;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #1B244A;
+    color: #EEEEEE;
+    border-radius: 25px;
+    text-align: center;
+    margin: 25px;
+    padding: 25px 25px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#guest-points-text, #home-points-text {
+    background: #080001;
+    border-radius: 5px;
+    color: #F94F6D;
+    text-align: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+}
+
+#point-modifiers {
+    display: flex;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background: #1B244A;
+    font-size: 18px;
+}
+
+#add-one-point, #add-two-points, #add-three-points {
+    border: solid #EEEEEE 2px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 100px 5px 5px auto;
+}
