@@ -8,7 +8,7 @@ p {
 }
 
 button {
-    background-color: #1B244A;
+    background-color: #038f05;
     border: none;
     color: #EEEEEE;
 }
@@ -16,7 +16,7 @@ button {
 .container {
     display: flex;
     justify-content: space-around;
-    background: #1B244A;
+    background: #038f05;
     color: #EEEEEE;
     border-radius: 25px;
     text-align: center;
@@ -37,7 +37,7 @@ button {
 #point-modifiers {
     display: flex;
     font-family: 'Cursed Timer ULiL', sans-serif;
-    background: #1B244A;
+    background: #038f05;
     font-size: 18px;
 }
 
